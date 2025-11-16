@@ -1,6 +1,6 @@
 {
   "min_volume_24h": 4000000000,
-  "base_risk": 0.02,
+  "base_risk": 0.09,
   "rr_min": 3.0,
   "updated": "2025-11-16T03:00:00",
 
